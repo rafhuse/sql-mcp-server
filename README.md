@@ -151,7 +151,7 @@ This repo is configured for development/demo use. For production:
 
 ## Video Walkthrough
 
-📺 [Watch the full tutorial on YouTube](https://youtube.com/@rafsanhuseynov)
+📺 [Watch the full tutorial on YouTube](https://youtu.be/hd_XUawkKZM?si=5KCU5A6smrf7flt9)
 
 ## Author
 
