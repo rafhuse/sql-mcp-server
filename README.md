@@ -159,8 +159,5 @@ This repo is configured for development/demo use. For production:
 
 - [YouTube](https://youtube.com/@rafsanhuseynov)
 - [LinkedIn](https://linkedin.com/in/rafsanhuseynov)
-- [GitHub](https://github.com/rafsan-huseynov)
 
-## License
 
-MIT
